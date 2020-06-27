@@ -7,5 +7,5 @@
     }
   ],
   "liveSassCompile.settings.includeItems": ["assets/sass/style.scss"],
-  "liveSassCompile.settings.generateMap": false
+  "liveSassCompile.settings.generateMap": true
 }
